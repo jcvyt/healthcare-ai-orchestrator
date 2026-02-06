@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Healthcare AI Orchestrator: Agentic Claim Processing
 
 An enterprise-grade AI orchestration framework designed for high-compliance healthcare environments (BCBS). This project demonstrates a **Multi-Agent system** with integrated **Human-in-the-Loop (HITL)** guardrails and persistent memory.
@@ -30,4 +30,4 @@ The system follows a **Decoupled Orchestration Pattern**:
 =======
 # healthcare-ai-orchestrator
 An enterprise-grade AI orchestration layer for high-compliance healthcare workflow
->>>>>>> 46b9130364deb7bd6ef5e64c111a8e9f21c863a9
+
